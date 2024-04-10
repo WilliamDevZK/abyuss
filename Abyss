@@ -43,11 +43,11 @@ local Library = {
         Inline = Color3.fromHex("#323232"),
         LightContrast = Color3.fromHex("#202020"),
         DarkContrast = Color3.fromHex("#191919"),
-        Text = Color3.fromHex("#e8e8e8"),
+        Text = Color3.fromHex("#ffffff"),
         TextInactive = Color3.fromHex("#aaaaaa"),
         Font = Drawing.Fonts.Plex,
-        TextSize = 12,
-        UseOutline = True
+        TextSize = 11,
+        UseOutline = false
     },
     Icons = {},
     Flags = {},
