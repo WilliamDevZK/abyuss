@@ -27,7 +27,7 @@ local InputGUI = Instance.new("ScreenGui", CoreGui)
 local Library = {
     Theme = {
         Accent = {
-            Color3.fromHex("#7885f5"), -- Color3.fromHex("#a280d9"), -- Color3.fromRGB(255, 42, 10), Color3.fromHex("#3599d4")
+            Color3.fromHex("#fa9901"), -- Color3.fromHex("#fa9901"), -- Color3.fromRGB(255, 42, 10), Color3.fromHex("#3599d4")
             Color3.fromRGB(180, 156, 255),
             Color3.fromRGB(114, 0, 198),
             Color3.fromRGB(139, 130, 185),
