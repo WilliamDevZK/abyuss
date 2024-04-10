@@ -27,8 +27,8 @@ local InputGUI = Instance.new("ScreenGui", CoreGui)
 local Library = {
     Theme = {
         Accent = {
-            Color3.fromHex("#fa9901"), -- Color3.fromHex("#fa9901"), -- Color3.fromRGB(255, 42, 10), Color3.fromHex("#3599d4")
-            Color3.fromRGB(180, 156, 255),
+            Color3.fromHex("#fa9901"), -- Color3.fromHex("#fa9901"), -- Color3.fromRGB(255, 42, 10), Color3.fromHex("#fa9901")
+            Color3.fromRGB(250, 153, 1),
             Color3.fromRGB(114, 0, 198),
             Color3.fromRGB(139, 130, 185),
             Color3.fromHex("#a83299")
@@ -47,7 +47,7 @@ local Library = {
         TextInactive = Color3.fromHex("#aaaaaa"),
         Font = Drawing.Fonts.Plex,
         TextSize = 12,
-        UseOutline = FALSE
+        UseOutline = True
     },
     Icons = {},
     Flags = {},
